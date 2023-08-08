@@ -1,7 +1,7 @@
 {
-  "Severity": {
+  "Xenza": {
     "users": ["4272153173", "maybe_more_here", "even_more_here"],
-    "color": "#FF0000" 
+    "color": "#800080" 
   },
   "AW Dev": {
     "users": ["245030098"],
